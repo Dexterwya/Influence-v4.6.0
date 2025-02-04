@@ -1,368 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "image_with_text_overlay_79fxif": {
-      "type": "image-with-text-overlay",
+    "slideshow_cEhdkA": {
+      "type": "slideshow",
       "blocks": {
-        "text_xF6JDh": {
-          "type": "text",
+        "image_dcNzyR": {
+          "type": "image",
           "settings": {
-            "text": "<p>Heading<\/p>",
-            "font_size_desktop": 16,
-            "font_size_mobile": 16,
-            "text_bottom_spacing": 0
-          }
-        },
-        "heading_UNzgXH": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text overlay",
-            "font_size_desktop": 60,
-            "font_size_mobile": 28,
-            "heading_bottom_spacing": 10
-          }
-        },
-        "button_taDXh9": {
-          "type": "button",
-          "settings": {
-            "first_button_label": "Shop collection",
-            "second_button_label": "Shop all",
+            "title": "Make a great \nfirst impression",
+            "text": "Add images and text to give focus to your chosen product, collection, or blog post",
+            "first_button_label": "Shop now",
+            "first_button_link": "",
+            "second_button_label": "",
+            "second_button_link": "",
             "buttons_style": "filled",
-            "buttons_bottom_spacing": 0
+            "override_button_colors": false,
+            "button-background": "#E68819",
+            "button-text": "#FFFFFF",
+            "image": "shopify://shop_images/IMG_1340.jpg",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center",
+            "mobile_image": "shopify://shop_images/IMG_1340.jpg",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center",
+            "image_overlay": "#242424",
+            "image_overlay_opacity": 25,
+            "caption-text": "#ffffff"
           }
         }
       },
       "block_order": [
-        "text_xF6JDh",
-        "heading_UNzgXH",
-        "button_taDXh9"
+        "image_dcNzyR"
       ],
       "settings": {
-        "height_desktop": "100vh",
-        "text_position_desktop": "bottom_left",
-        "text_alignment_desktop": "left",
-        "caption_width_desktop": 50,
-        "height_mobile": "400px",
-        "text_position_mobile": "bottom_left",
-        "text_alignment_mobile": "left",
-        "section_link": "",
-        "animation_style": "parallax",
-        "section_margin_top": 0,
-        "section_margin_bottom": 0,
-        "image_overlay_opacity": 0
-      }
-    },
-    "3c4d9433-fe83-4e4a-afa6-63c348fea245": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "description": "",
-        "show_view_all": false,
-        "section_padding_top": 60,
-        "section_padding_bottom": 60,
-        "layout_style": "slider",
-        "products_to_show": 8,
-        "grid-desktop": 4,
-        "grid-mobile": "2",
-        "colors": "white"
-      }
-    },
-    "rich_text_g7DtAM": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_fLQ9UE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading",
-            "heading--text-size": 30
-          }
-        },
-        "heading_abVbcf": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome to our store",
-            "heading--text-size": 26
-          }
-        }
-      },
-      "block_order": [
-        "heading_fLQ9UE",
-        "heading_abVbcf"
-      ],
-      "settings": {
-        "section_width": "narrow",
-        "text_alignment_desktop": "center",
-        "text_alignment_mobile": "center",
+        "slide_transition_delay": 7,
+        "slide_navigation_style": "bars",
         "section_padding_top": 0,
         "section_padding_bottom": 0,
-        "colors": "white"
+        "desktop_height": "full_screen",
+        "mobile_height": "extra_large"
       }
     },
-    "2e9d81a1-0b8c-4501-b6fc-a7a1d7c33f46": {
-      "type": "collage",
-      "blocks": {
-        "8e31609a-dfb9-4920-a276-de9ae783edcb": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        },
-        "eae1daf9-2d2a-4cec-a458-41baed5f1208": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        },
-        "ecd88b3b-0c88-4ad9-81c2-342fba0400b0": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        },
-        "c2566ed9-a04e-426e-9f5b-f1ac17e376f0": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        },
-        "b92ba220-d47b-4977-ac54-266e0776af55": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        },
-        "5dbee86a-b3e4-499a-bd26-204bc7fc8a7f": {
-          "type": "image",
-          "settings": {
-            "heading": "Collection",
-            "heading_size": 18,
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-bottom md-min-justify-left",
-            "mobile_position": "md-max-align-bottom md-max-justify-left"
-          }
-        }
-      },
-      "block_order": [
-        "8e31609a-dfb9-4920-a276-de9ae783edcb",
-        "eae1daf9-2d2a-4cec-a458-41baed5f1208",
-        "ecd88b3b-0c88-4ad9-81c2-342fba0400b0",
-        "c2566ed9-a04e-426e-9f5b-f1ac17e376f0",
-        "b92ba220-d47b-4977-ac54-266e0776af55",
-        "5dbee86a-b3e4-499a-bd26-204bc7fc8a7f"
-      ],
-      "settings": {
-        "title": "",
-        "description": "",
-        "section_padding_top": 30,
-        "section_padding_bottom": 60,
-        "remove_spacing": true,
-        "section_width": "full",
-        "width_1": "3",
-        "height_1": "2",
-        "width_2": "3",
-        "height_2": "2",
-        "width_3": "3",
-        "height_3": "2",
-        "width_4": "3",
-        "height_4": "2",
-        "width_5": "3",
-        "height_5": "2",
-        "width_6": "3",
-        "height_6": "2",
-        "block_alignment": "center",
-        "color_scheme": "white"
-      }
-    },
-    "8e5ec474-3243-4f60-bf25-de79a2bdd994": {
-      "type": "collage",
-      "blocks": {
-        "8306488a-77f0-4452-a73e-7c43ef941496": {
-          "type": "image",
-          "settings": {
-            "heading": "",
-            "heading_size": 30,
-            "button_label": "",
-            "desktop_position": "md-min-align-bottom md-min-justify-right",
-            "mobile_position": "md-max-align-bottom md-max-justify-right"
-          }
-        },
-        "cf5d5b64-66a7-461f-8487-67699de98cc3": {
-          "type": "text",
-          "settings": {
-            "heading": "Upload an image",
-            "heading_size": 48,
-            "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
-            "text_alignment": "center",
-            "button_label": "Shop now",
-            "desktop_position": "md-min-align-center md-min-justify-center"
-          }
-        }
-      },
-      "block_order": [
-        "8306488a-77f0-4452-a73e-7c43ef941496",
-        "cf5d5b64-66a7-461f-8487-67699de98cc3"
-      ],
-      "settings": {
-        "title": "",
-        "description": "",
-        "section_padding_top": 0,
-        "section_padding_bottom": 60,
-        "remove_spacing": true,
-        "section_width": "content",
-        "width_1": "2",
-        "height_1": "2",
-        "width_2": "2",
-        "height_2": "2",
-        "width_3": "3",
-        "height_3": "3",
-        "width_4": "2",
-        "height_4": "2",
-        "width_5": "2",
-        "height_5": "2",
-        "width_6": "1",
-        "height_6": "4",
-        "block_alignment": "center",
-        "color_scheme": "white"
-      }
-    },
-    "image_with_text_overlay_mtyMet": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_zcQkLR": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text overlay",
-            "font_size_desktop": 60,
-            "font_size_mobile": 28,
-            "heading_bottom_spacing": 25
-          }
-        },
-        "button_Hdwitp": {
-          "type": "button",
-          "settings": {
-            "first_button_label": "Shop collection",
-            "second_button_label": "Shop all",
-            "buttons_style": "filled",
-            "buttons_bottom_spacing": 0
-          }
-        }
-      },
-      "block_order": [
-        "heading_zcQkLR",
-        "button_Hdwitp"
-      ],
-      "settings": {
-        "height_desktop": "450px",
-        "text_position_desktop": "left",
-        "text_alignment_desktop": "left",
-        "caption_width_desktop": 45,
-        "height_mobile": "400px",
-        "text_position_mobile": "bottom_center",
-        "text_alignment_mobile": "left",
-        "section_link": "",
-        "animation_style": "parallax",
-        "section_margin_top": 0,
-        "section_margin_bottom": 0,
-        "image_overlay_opacity": 0
-      }
-    },
-    "2da4ed2b-2c41-4699-95ea-a849e6e6ba88": {
+    "featured_collection_G4gbnn": {
       "type": "featured-collection",
       "settings": {
         "title": "",
         "description": "",
-        "show_view_all": false,
+        "collection": "cleats-boots",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "show_view_all": true,
+        "buttons_style": "filled",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
-        "layout_style": "slider",
+        "layout_style": "grid",
         "products_to_show": 8,
         "grid-desktop": 4,
         "grid-mobile": "2",
         "colors": "white"
-      }
-    },
-    "image_with_text_overlay_49pFNh": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_4BURL8": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text overlay",
-            "font_size_desktop": 60,
-            "font_size_mobile": 28,
-            "heading_bottom_spacing": 25
-          }
-        },
-        "button_Y4KTtW": {
-          "type": "button",
-          "settings": {
-            "first_button_label": "Shop now",
-            "second_button_link": "",
-            "second_button_label": "",
-            "buttons_style": "filled",
-            "buttons_bottom_spacing": 0
-          }
-        }
-      },
-      "block_order": [
-        "heading_4BURL8",
-        "button_Y4KTtW"
-      ],
-      "settings": {
-        "height_desktop": "550px",
-        "text_position_desktop": "center",
-        "text_alignment_desktop": "center",
-        "caption_width_desktop": 50,
-        "height_mobile": "400px",
-        "text_position_mobile": "center",
-        "text_alignment_mobile": "center",
-        "section_link": "",
-        "animation_style": "parallax",
-        "section_margin_top": 0,
-        "section_margin_bottom": 0,
-        "image_overlay_opacity": 0
-      }
-    },
-    "721a243e-bfc0-4f89-b565-790b91159725": {
-      "type": "featured-product",
-      "settings": {
-        "title": "",
-        "description": "",
-        "featured_product": "",
-        "title_font": "h1",
-        "price_font": "h3",
-        "variant_style": "swatches",
-        "hide_out_of_stock_variants": false,
-        "show-giftwrap": false,
-        "show-vendor": false,
-        "show_product_description": true,
-        "show_quantity_selector": true,
-        "show_add_to_cart": true,
-        "show_smart_checkout": true,
-        "image-placement": "left",
-        "enable_video_loop": false,
-        "section_padding_top": 60,
-        "section_padding_bottom": 60,
-        "color_scheme": "white"
       }
     },
     "60bed486-1e6a-4ebc-b20e-c27d4ac0cff5": {
@@ -387,7 +93,7 @@
         "description": "",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
-        "colors": "light"
+        "colors": "dark"
       }
     },
     "shop_the_look_Lwt8Py": {
@@ -396,7 +102,7 @@
         "look_7XFpXE": {
           "type": "look",
           "settings": {
-            "hotspot_color": "#FFFFFF",
+            "hotspot_color": "#ffffff",
             "product_1": "",
             "hotspot_horizontal_position_1": 60,
             "hotspot_vertical_position_1": 80,
@@ -421,7 +127,10 @@
         "image_aspect_ratio": "auto",
         "section_padding_top": 60,
         "section_padding_bottom": 0,
-        "colors": "white"
+        "colors": "white",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff"
       }
     },
     "e025d5ab-75ff-4d37-a89d-26b3a0b487c4": {
@@ -432,40 +141,60 @@
           "disabled": true,
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         },
         "template--17221699174614__e025d5ab-75ff-4d37-a89d-26b3a0b487c4-image-2": {
           "type": "image",
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         },
         "template--17221699174614__e025d5ab-75ff-4d37-a89d-26b3a0b487c4-image-3": {
           "type": "image",
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         },
         "986d2f3a-e0e0-425a-bd96-0efeb6c84ad1": {
           "type": "image",
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         }
       },
@@ -478,7 +207,9 @@
       "settings": {
         "title": "",
         "description": "",
+        "grid_image_size": "natural",
         "content-position": "hide",
+        "buttons_style": "filled",
         "section_padding_top": 60,
         "section_padding_bottom": 0,
         "section-width": "full",
@@ -495,9 +226,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         },
         "1c6a81f8-1d4e-4fcb-a8cc-95ffdd1128b6": {
@@ -505,9 +236,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         },
         "42e8d12c-1d3e-4b8a-aa90-7dc789c8f0a8": {
@@ -515,9 +246,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         },
         "8d9cfc24-d7c2-4b91-8b6f-6463e051ca01": {
@@ -525,9 +256,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         }
       },
@@ -540,9 +271,17 @@
       "settings": {
         "title": "",
         "description": "",
+        "buttons_style": "underlined",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "maximum_width": 500,
         "columns_per_row": 4,
         "text_alignment": "center",
         "vertical_alignment": "top",
+        "text_alignment_mobile": "center",
+        "hover_navigation_desktop": "left-and-right",
+        "section_width": "full",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
         "colors": "light"
@@ -556,7 +295,8 @@
           "settings": {
             "grid_image_size": "tall",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
             "button_text": ""
           }
         },
@@ -565,7 +305,8 @@
           "settings": {
             "grid_image_size": "tall",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
             "button_text": ""
           }
         },
@@ -574,7 +315,8 @@
           "settings": {
             "grid_image_size": "tall",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
             "button_text": ""
           }
         }
@@ -586,10 +328,18 @@
       ],
       "settings": {
         "title": "Info columns",
-        "description": "<p>EMPHASISE YOUR MESSAGING<\/p>",
+        "description": "<p>EMPHASISE YOUR MESSAGING</p>",
+        "buttons_style": "underlined",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "maximum_width": 500,
         "columns_per_row": 3,
         "text_alignment": "center",
         "vertical_alignment": "top",
+        "text_alignment_mobile": "center",
+        "hover_navigation_desktop": "left-and-right",
+        "section_width": "full",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
         "colors": "white"
@@ -609,21 +359,26 @@
     "2702beb3-827b-44e4-991e-9b79a8ccc045": {
       "type": "map",
       "settings": {
-        "colors": "white",
-        "layout": "right"
+        "heading": "Our store",
+        "address": "<p>123 Fake St.<br>Toronto, Canada</p><p>Mon - Fri, 10am - 9pm<br>Saturday, 11am - 9pm<br>Sunday, 11am - 5pm</p>",
+        "map_address": "80 Spadina Ave, Toronto",
+        "api_key": "",
+        "button_text": "Get directions",
+        "buttons_style": "filled",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "layout": "right",
+        "text_alignment": "center",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "white"
       }
     }
   },
   "order": [
-    "image_with_text_overlay_79fxif",
-    "3c4d9433-fe83-4e4a-afa6-63c348fea245",
-    "rich_text_g7DtAM",
-    "2e9d81a1-0b8c-4501-b6fc-a7a1d7c33f46",
-    "8e5ec474-3243-4f60-bf25-de79a2bdd994",
-    "image_with_text_overlay_mtyMet",
-    "2da4ed2b-2c41-4699-95ea-a849e6e6ba88",
-    "image_with_text_overlay_49pFNh",
-    "721a243e-bfc0-4f89-b565-790b91159725",
+    "slideshow_cEhdkA",
+    "featured_collection_G4gbnn",
     "60bed486-1e6a-4ebc-b20e-c27d4ac0cff5",
     "shop_the_look_Lwt8Py",
     "e025d5ab-75ff-4d37-a89d-26b3a0b487c4",
