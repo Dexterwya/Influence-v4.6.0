@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "image_with_text_overlay_a8d7nB": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_cTecJ8": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQs",
+            "font_size_desktop": 60,
+            "font_size_mobile": 28,
+            "heading_bottom_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_cTecJ8"
+      ],
+      "settings": {
+        "height_desktop": "original",
+        "text_position_desktop": "center",
+        "text_alignment_desktop": "center",
+        "caption_width_desktop": 100,
+        "height_mobile": "original",
+        "text_position_mobile": "center",
+        "text_alignment_mobile": "center",
+        "section_link": "",
+        "animation_style": "none",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "image_overlay_opacity": 0
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "16457242689a58d7f3": {
+      "type": "accordion",
+      "blocks": {
+        "164572426857089649-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "164572426857089649-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "164572426857089649-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164572426857089649-0",
+        "164572426857089649-1",
+        "164572426857089649-2"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 30,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "744d98e2-004e-44b9-a03d-ecb59f18bc52": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "template--14773137178694__744d98e2-004e-44b9-a03d-ecb59f18bc52-1686321924a56b1582-0": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "natural",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "template--14773137178694__744d98e2-004e-44b9-a03d-ecb59f18bc52-1686321924a56b1582-1": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "natural",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "2ecdd5ca-7f5d-41e4-955d-06a9d09b406b": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "natural",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14773137178694__744d98e2-004e-44b9-a03d-ecb59f18bc52-1686321924a56b1582-0",
+        "template--14773137178694__744d98e2-004e-44b9-a03d-ecb59f18bc52-1686321924a56b1582-1",
+        "2ecdd5ca-7f5d-41e4-955d-06a9d09b406b"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "columns_per_row": 3,
+        "text_alignment": "center",
+        "vertical_alignment": "top",
+        "section_padding_top": 30,
+        "section_padding_bottom": 30,
+        "colors": "light"
+      }
+    },
+    "f5bb3c0e-cf8d-467e-9ad2-bf8515318e20": {
+      "type": "accordion",
+      "blocks": {
+        "8082f474-b0d7-4ec3-a68b-56bbe5d3aff6": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "539807f0-6e73-4da1-bf78-916a14b26044": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "91c3f7c3-3c0e-41cb-b93b-e08cdade3674": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "2b251e97-2441-4617-b133-21ebbda3fbcf": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8082f474-b0d7-4ec3-a68b-56bbe5d3aff6",
+        "539807f0-6e73-4da1-bf78-916a14b26044",
+        "91c3f7c3-3c0e-41cb-b93b-e08cdade3674",
+        "2b251e97-2441-4617-b133-21ebbda3fbcf"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 30,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "1645724501b902ee9b": {
+      "type": "rich-text",
+      "blocks": {
+        "bc4025b5-129f-46b8-8cae-abfa4c5f4e2a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Still need assistance?",
+            "heading--text-size": 30
+          }
+        },
+        "6d07b405-3374-4f17-b28d-17e359b5102b": {
+          "type": "richtext",
+          "settings": {
+            "text": "",
+            "text_size": 24
+          }
+        },
+        "f391f3ae-8651-4404-a582-ed557905006e": {
+          "type": "button",
+          "settings": {
+            "button_text": "Contact us"
+          }
+        }
+      },
+      "block_order": [
+        "bc4025b5-129f-46b8-8cae-abfa4c5f4e2a",
+        "6d07b405-3374-4f17-b28d-17e359b5102b",
+        "f391f3ae-8651-4404-a582-ed557905006e"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "light"
+      }
+    },
+    "164735127315c846ad": {
+      "type": "gallery",
+      "blocks": {
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false
+          }
+        },
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false
+          }
+        },
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-3": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false
+          }
+        },
+        "d5894cfc-6a93-4c2b-b3c7-14fa9825f80b": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-1",
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-2",
+        "template--17221698519254__4384936e-cb61-44f0-87b8-79f2565ccb8e-image-3",
+        "d5894cfc-6a93-4c2b-b3c7-14fa9825f80b"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "content-position": "hide",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "section-width": "full",
+        "remove-spacing": true,
+        "full-width": false,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_a8d7nB",
+    "main",
+    "16457242689a58d7f3",
+    "744d98e2-004e-44b9-a03d-ecb59f18bc52",
+    "f5bb3c0e-cf8d-467e-9ad2-bf8515318e20",
+    "1645724501b902ee9b",
+    "164735127315c846ad"
+  ]
+}

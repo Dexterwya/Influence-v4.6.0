@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--article",
+      "settings": {
+        "article-sidebar-description": "",
+        "blog-sidebar-link": "",
+        "show_blog_tags": false,
+        "show_recent_posts": true,
+        "blog_show_date": true
+      }
+    },
+    "a1ac27e8-3470-4ed7-8fb1-53914c699b0d": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17221698912470__a1ac27e8-3470-4ed7-8fb1-53914c699b0d-text-1": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
+            "customer_name": "JOHN SMITH",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--17221698912470__a1ac27e8-3470-4ed7-8fb1-53914c699b0d-text-1"
+      ],
+      "settings": {
+        "circle_images": true,
+        "title": "Testimonials",
+        "description": "",
+        "section_padding_top": 30,
+        "section_padding_bottom": 30,
+        "colors": "accent"
+      }
+    },
+    "fed1719c-fc29-4e67-9a66-22a1e053195b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "description": "",
+        "show_view_all": false,
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "layout_style": "slider",
+        "products_to_show": 8,
+        "grid-desktop": 4,
+        "grid-mobile": "1",
+        "colors": "white"
+      }
+    },
+    "ae5bc7ef-cc04-4e18-9be0-8a17777a4808": {
+      "type": "newsletter",
+      "settings": {
+        "newsletter_heading": "Join our mailing list",
+        "newsletter_description": "",
+        "textAlignment": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a1ac27e8-3470-4ed7-8fb1-53914c699b0d",
+    "fed1719c-fc29-4e67-9a66-22a1e053195b",
+    "ae5bc7ef-cc04-4e18-9be0-8a17777a4808"
+  ]
+}

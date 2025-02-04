@@ -1,0 +1,214 @@
+{
+  "sections": {
+    "product-form": {
+      "type": "template--product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_font": "h1",
+            "margin_bottom": 0
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_font": "h3",
+            "shipping_policy": false,
+            "tax_included": false,
+            "margin_bottom": 30
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "hide_out_of_stock_variants": false,
+            "variant_style": "swatches",
+            "thumbnail_changes_variant": false,
+            "size_guide_page": "",
+            "margin_bottom": 30
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "settings": {
+            "margin_bottom": 30
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_smart_checkout": true,
+            "enable_gift_card_recipient_form": true,
+            "margin_bottom": 30
+          }
+        },
+        "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
+          "type": "product-description",
+          "settings": {
+            "collapsible_tab": true,
+            "icon": "none",
+            "heading": "Description",
+            "open_close_icon": "caret",
+            "margin_bottom": 30
+          }
+        },
+        "4fdb087c-4728-4785-b270-a71a092b7898": {
+          "type": "social_sharing",
+          "settings": {
+            "margin_bottom": 30
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "options",
+        "quantity",
+        "buy_buttons",
+        "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
+        "4fdb087c-4728-4785-b270-a71a092b7898"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "image_size": "large",
+        "image_shape": "original",
+        "image-display": "grid",
+        "thumbnail_position": "left",
+        "enable_video_loop": true,
+        "app_margin_bottom": 20
+      }
+    },
+    "a0ebc9ee-fbc1-440b-8d43-5aa21331465a": {
+      "type": "animated-text",
+      "blocks": {
+        "be8b9ce7-ad94-4672-8ab9-11b6f638bbf3": {
+          "type": "text_dynamic",
+          "settings": {
+            "text_dynamic": "Amazing,Fantastic,Jaw-dropping",
+            "animation_timing": 1000,
+            "rotation_interval": 4500,
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "template--17221699305686__a0ebc9ee-fbc1-440b-8d43-5aa21331465a-text_static-1": {
+          "type": "text_static",
+          "settings": {
+            "text_static": "<p>products<\/p>",
+            "max_width_desktop": 100,
+            "max_width_mobile": 100,
+            "text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "be8b9ce7-ad94-4672-8ab9-11b6f638bbf3",
+        "template--17221699305686__a0ebc9ee-fbc1-440b-8d43-5aa21331465a-text_static-1"
+      ],
+      "settings": {
+        "height_desktop": "original",
+        "text_size_desktop": 60,
+        "text_position_desktop": "center",
+        "height_mobile": "original",
+        "text_size_mobile": 28,
+        "text_position_mobile": "center",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "7d150a01-8155-48c2-af88-6d7d16cf686f": {
+      "type": "testimonials",
+      "blocks": {
+        "template--17221699305686__7d150a01-8155-48c2-af88-6d7d16cf686f-text-1": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Show off incredible feedback from your customers<\/p>",
+            "customer_name": "JOHN SMITH",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--17221699305686__7d150a01-8155-48c2-af88-6d7d16cf686f-text-1"
+      ],
+      "settings": {
+        "circle_images": true,
+        "title": "TESTIMONIALS",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "80825ab6-bedc-4ab7-b581-a940e7258e03": {
+      "type": "collage",
+      "blocks": {
+        "template--17221699305686__80825ab6-bedc-4ab7-b581-a940e7258e03-image-1": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-left"
+          }
+        },
+        "5b263d56-0c45-4fe6-83be-fa7d0b04f022": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-left"
+          }
+        },
+        "3d9387e1-82af-4ee8-acdc-7ccd781fba8a": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--17221699305686__80825ab6-bedc-4ab7-b581-a940e7258e03-image-1",
+        "5b263d56-0c45-4fe6-83be-fa7d0b04f022",
+        "3d9387e1-82af-4ee8-acdc-7ccd781fba8a"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "remove_spacing": true,
+        "section_width": "full",
+        "width_1": "3",
+        "height_1": "2",
+        "width_2": "3",
+        "height_2": "2",
+        "width_3": "3",
+        "height_3": "2",
+        "width_4": "2",
+        "height_4": "2",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center",
+        "color_scheme": "white"
+      }
+    }
+  },
+  "order": [
+    "product-form",
+    "a0ebc9ee-fbc1-440b-8d43-5aa21331465a",
+    "7d150a01-8155-48c2-af88-6d7d16cf686f",
+    "80825ab6-bedc-4ab7-b581-a940e7258e03"
+  ]
+}

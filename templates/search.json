@@ -1,0 +1,31 @@
+{
+  "wrapper": "div.collection-wrapper",
+  "sections": {
+    "main": {
+      "type": "template--search",
+      "settings": {
+        "desktop-results-per-row": 3,
+        "mobile-results-per-row": "2",
+        "desktop_position": "sidebar",
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_swatch_filter_labels": true
+      }
+    },
+    "ba0289a9-189c-44b4-a569-0217c0002607": {
+      "type": "newsletter",
+      "settings": {
+        "newsletter_heading": "Sign up to our newsletter",
+        "newsletter_description": "<p>Get priority access to events and exclusive offers<\/p>",
+        "textAlignment": "center",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "dark"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ba0289a9-189c-44b4-a569-0217c0002607"
+  ]
+}

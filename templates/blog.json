@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "image_with_text_overlay_LryH4K": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_VMRCKN": {
+          "type": "heading",
+          "settings": {
+            "title": "Blog",
+            "font_size_desktop": 60,
+            "font_size_mobile": 28,
+            "heading_bottom_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_VMRCKN"
+      ],
+      "settings": {
+        "height_desktop": "original",
+        "text_position_desktop": "center",
+        "text_alignment_desktop": "center",
+        "caption_width_desktop": 100,
+        "height_mobile": "original",
+        "text_position_mobile": "center",
+        "text_alignment_mobile": "center",
+        "section_link": "",
+        "animation_style": "none",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "image_overlay_opacity": 0
+      }
+    },
+    "4de6d0de-722b-428d-b453-983f000c9710": {
+      "type": "navigation-banner",
+      "settings": {
+        "banner_linklist": "main-menu",
+        "navigation_position": "center",
+        "section_padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "template--blog",
+      "settings": {
+        "show_author_name": false,
+        "blog_show_date": true,
+        "blog-sidebar-link": "",
+        "blog-sidebar-description": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "1646004249db2dcfc2": {
+      "type": "newsletter",
+      "settings": {
+        "newsletter_heading": "Join our mailing list",
+        "newsletter_description": "",
+        "textAlignment": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "dark"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_LryH4K",
+    "4de6d0de-722b-428d-b453-983f000c9710",
+    "main",
+    "1646004249db2dcfc2"
+  ]
+}
