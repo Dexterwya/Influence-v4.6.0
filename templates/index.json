@@ -15,9 +15,9 @@
         "image_dcNzyR": {
           "type": "image",
           "settings": {
-            "title": "Make a great \nfirst impression",
-            "text": "Add images and text to give focus to your chosen product, collection, or blog post",
-            "first_button_label": "Shop now",
+            "title": "",
+            "text": "",
+            "first_button_label": "",
             "first_button_link": "",
             "second_button_label": "",
             "second_button_link": "",
@@ -37,13 +37,67 @@
             "image_overlay_opacity": 25,
             "caption-text": "#ffffff"
           }
+        },
+        "image_LWeMP8": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "text": "",
+            "first_button_label": "",
+            "first_button_link": "",
+            "second_button_label": "",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "override_button_colors": false,
+            "button-background": "#E68819",
+            "button-text": "#FFFFFF",
+            "image": "shopify://shop_images/IMG_1336.jpg",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center",
+            "mobile_image": "shopify://shop_images/IMG_1336.jpg",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center",
+            "image_overlay": "#242424",
+            "image_overlay_opacity": 25,
+            "caption-text": "#ffffff"
+          }
+        },
+        "image_jXFKKh": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "text": "",
+            "first_button_label": "",
+            "first_button_link": "",
+            "second_button_label": "",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "override_button_colors": false,
+            "button-background": "#E68819",
+            "button-text": "#FFFFFF",
+            "image": "shopify://shop_images/IMG_1341.jpg",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center",
+            "mobile_image": "shopify://shop_images/IMG_1341.jpg",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center",
+            "image_overlay": "#242424",
+            "image_overlay_opacity": 25,
+            "caption-text": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "image_dcNzyR"
+        "image_dcNzyR",
+        "image_LWeMP8",
+        "image_jXFKKh"
       ],
       "settings": {
-        "slide_transition_delay": 7,
+        "slide_transition_delay": 5,
         "slide_navigation_style": "bars",
         "section_padding_top": 0,
         "section_padding_bottom": 0,
@@ -69,7 +123,7 @@
       "settings": {
         "section_width": "narrow",
         "text_alignment_desktop": "center",
-        "text_alignment_mobile": "center",
+        "text_alignment_mobile": "left",
         "section_padding_top": 60,
         "section_padding_bottom": 0,
         "colors": "white"
