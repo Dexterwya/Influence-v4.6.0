@@ -89,8 +89,8 @@
             "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/cleats-boots"
           }
         },
         "collection_jRmtrM": {
@@ -104,7 +104,7 @@
             "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
-            "button_text": "Shop Now",
+            "button_text": "View All",
             "button_link": "shopify://collections/all"
           }
         },
@@ -119,8 +119,8 @@
             "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/turf-boots"
           }
         }
       },
