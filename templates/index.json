@@ -566,7 +566,7 @@
           "settings": {
             "collection": "hoodies",
             "subheading": "",
-            "overlay-btn-text": "Shop now",
+            "overlay-btn-text": "",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
@@ -576,8 +576,8 @@
           "type": "featured_collection",
           "settings": {
             "collection": "training-suits",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
+            "subheading": "",
+            "overlay-btn-text": "",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
@@ -587,10 +587,21 @@
           "type": "featured_collection",
           "settings": {
             "collection": "reversible-trench-coat",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
+            "subheading": "",
+            "overlay-btn-text": "",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
+            "overlay_color": "#242424"
+          }
+        },
+        "featured_collection_8gdQkp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "windbreakers",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
             "overlay_color": "#242424"
           }
         }
@@ -598,22 +609,23 @@
       "block_order": [
         "featured_collection_FdNdYM",
         "featured_collection_ptqhnz",
-        "featured_collection_BYKM74"
+        "featured_collection_BYKM74",
+        "featured_collection_8gdQkp"
       ],
       "settings": {
-        "title": "Featured Collections",
-        "description": "",
+        "title": "BE UNBEATABLE",
+        "description": "<p>SHOP BY CATEGORY</p>",
         "buttons_style": "filled",
         "override_button_colors": false,
         "button_background_color": "#e68819",
         "button_text_color": "#ffffff",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
-        "items-per-row": 3,
+        "items-per-row": 4,
         "remove-spacing": false,
         "section-width": "full",
         "content-position": "overlay",
-        "colors": "light"
+        "colors": "dark"
       }
     },
     "shop_the_look_Lwt8Py": {
