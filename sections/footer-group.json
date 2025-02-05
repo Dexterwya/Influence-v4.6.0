@@ -28,7 +28,7 @@
             "footer_newsletter_description": "<p>Be the first to know about our biggest and best sales.</p>",
             "buttons_style": "filled",
             "override_button_colors": false,
-            "button_background_color": "#E68819",
+            "button_background_color": "#e68819",
             "button_text_color": "#ffffff"
           }
         },
@@ -42,7 +42,7 @@
         "social": {
           "type": "social",
           "settings": {
-            "social_title": "Social media"
+            "social_title": "FOLLOW OUR SOCIALS"
           }
         }
       },
