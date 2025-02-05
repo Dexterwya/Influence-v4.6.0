@@ -558,6 +558,64 @@
         "section-width": 120
       }
     },
+    "collection_list_jayLaJ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FdNdYM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424"
+          }
+        },
+        "featured_collection_ptqhnz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424"
+          }
+        },
+        "featured_collection_BYKM74": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FdNdYM",
+        "featured_collection_ptqhnz",
+        "featured_collection_BYKM74"
+      ],
+      "settings": {
+        "title": "Featured Collections",
+        "description": "",
+        "buttons_style": "filled",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "items-per-row": 3,
+        "remove-spacing": false,
+        "section-width": "full",
+        "content-position": "overlay",
+        "colors": "light"
+      }
+    },
     "shop_the_look_Lwt8Py": {
       "type": "shop-the-look",
       "blocks": {
@@ -595,6 +653,51 @@
         "button_background_color": "#e68819",
         "button_text_color": "#ffffff"
       }
+    },
+    "accordion_B6LmjL": {
+      "type": "accordion",
+      "blocks": {
+        "tab_content_9bAQfU": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
+          }
+        },
+        "tab_content_zdX7mz": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
+          }
+        },
+        "tab_content_P7BQFy": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
+          }
+        }
+      },
+      "block_order": [
+        "tab_content_9bAQfU",
+        "tab_content_zdX7mz",
+        "tab_content_P7BQFy"
+      ],
+      "settings": {
+        "title": "Frequently asked questions",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
     }
   },
   "order": [
@@ -610,6 +713,8 @@
     "image_with_text_overlay_dtiGyi",
     "rich_text_6rdzwK",
     "collection_tabs_RKBa8m",
-    "shop_the_look_Lwt8Py"
+    "collection_list_jayLaJ",
+    "shop_the_look_Lwt8Py",
+    "accordion_B6LmjL"
   ]
 }
