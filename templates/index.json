@@ -321,24 +321,105 @@
         "colors": "dark"
       }
     },
-    "featured_collection_HGjxbJ": {
-      "type": "featured-collection",
+    "rich_text_4faktf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Q8g4Fi": {
+          "type": "heading",
+          "settings": {
+            "heading": "GAME ON, STYLE UP",
+            "heading--text-size": 30,
+            "heading_bottom_spacing": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q8g4Fi"
+      ],
       "settings": {
-        "title": "SPECIAL EDITION JERSEYS",
-        "description": "",
-        "collection": "special-edition-jerseys",
-        "override_button_colors": false,
-        "button_background_color": "#E68819",
-        "button_text_color": "#ffffff",
-        "show_view_all": false,
-        "buttons_style": "filled",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "left",
         "section_padding_top": 60,
-        "section_padding_bottom": 60,
-        "layout_style": "slider",
-        "products_to_show": 8,
-        "grid-desktop": 4,
-        "grid-mobile": "2",
+        "section_padding_bottom": 0,
         "colors": "white"
+      }
+    },
+    "collection_tabs_qGFUz6": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_w9yFwP": {
+          "type": "collection",
+          "settings": {
+            "title": "Special edition jerseys",
+            "collection": "special-edition-jerseys",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/cleats-boots"
+          }
+        },
+        "collection_38xVCU": {
+          "type": "collection",
+          "settings": {
+            "title": "Modern jerseys",
+            "collection": "modern-vintage-jerseys",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/turf-boots"
+          }
+        }
+      },
+      "block_order": [
+        "collection_w9yFwP",
+        "collection_38xVCU"
+      ],
+      "settings": {
+        "tabs_color": "#7e7e7e",
+        "tabs_color_active": "#000000",
+        "tabs_size": 18,
+        "tabs_size_mobile": 14,
+        "tabs_padding_bottom": 16,
+        "tabs_align": "center",
+        "tabs_spacing": 48,
+        "tabs_spacing_mobile": 36,
+        "tabs_margin_bottom": 40,
+        "secondary_image_hover": true,
+        "image_roundness": 0,
+        "image_gap": 20,
+        "product_title_size": 14,
+        "product_title_line_height": 1.3,
+        "product_title_color": "#212121",
+        "product_price_size": 14,
+        "discounted_price_color": "#ff3451",
+        "normal_price_color": "#212121",
+        "button_color": "#ffffff",
+        "button_background_color": "#000000",
+        "button_color_hover": "#ffffff",
+        "button_background_color_hover": "#000000",
+        "button_border_color": "#ffffff",
+        "button_height": 44,
+        "button_width": 200,
+        "button_font_size": 16,
+        "button_border_radius": 2,
+        "button_border_thickness": 0,
+        "background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 28,
+        "padding_bottom": 36,
+        "padding_sides": 5,
+        "padding_sides_mobile": 1.5,
+        "section-width": 120
       }
     },
     "shop_the_look_Lwt8Py": {
@@ -388,7 +469,8 @@
     "image_with_text_overlay_NhLkyr",
     "featured_collection_gwPTkd",
     "60bed486-1e6a-4ebc-b20e-c27d4ac0cff5",
-    "featured_collection_HGjxbJ",
+    "rich_text_4faktf",
+    "collection_tabs_qGFUz6",
     "shop_the_look_Lwt8Py"
   ]
 }
