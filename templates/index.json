@@ -601,7 +601,7 @@
             "subheading": "",
             "overlay-btn-text": "",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#FFFFFF",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
           }
         }
@@ -672,8 +672,8 @@
         "tab_content_9bAQfU": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "question": "What is your return policy?",
+            "text": "<p>We understand that finding the perfect fit is essential. If you need to exchange your shoes for a smaller or bigger size, we’ve got you covered! Simply return the pair in its original condition, and we’ll send you the right size hassle-free. Our goal is to ensure you get the best fit for maximum comfort and performance.<br/><br/>For more details on our exchange process, feel free to contact our support team.</p>",
             "page": "",
             "open_by_default": false
           }
@@ -681,8 +681,8 @@
         "tab_content_zdX7mz": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "question": "Where you deliver?",
+            "text": "<p>We ensure authenticity by shipping all orders directly from the original stores in the UAE 🇦🇪. This guarantees that you receive 100% genuine products at the best quality. Please note that delivery takes approximately 2 to 3 weeks, as we handle each order with care to ensure a smooth and secure shipping process.<br/><br/>Your patience is appreciated, and we promise it’s worth the wait!</p>",
             "page": "",
             "open_by_default": false
           }
@@ -690,8 +690,8 @@
         "tab_content_P7BQFy": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "question": "What is your guarantee?",
+            "text": "<p>We take pride in offering top-quality products that meet the highest standards of performance, durability, and style. Every item in our collection is carefully selected and tested to ensure excellence, giving you the confidence to shop with peace of mind. Whether it’s cleats, jerseys, gloves, or accessories, we guarantee authenticity, comfort, and long-lasting wear. Your satisfaction is our priority, and we stand behind every purchase.<br/><br/>Shop with confidence—quality is always guaranteed!</p>",
             "page": "",
             "open_by_default": false
           }
@@ -703,7 +703,7 @@
         "tab_content_P7BQFy"
       ],
       "settings": {
-        "title": "Frequently asked questions",
+        "title": "MOST ASKED QUESTIONS",
         "description": "",
         "faq_icon": "plus_minus",
         "section_padding_top": 60,
