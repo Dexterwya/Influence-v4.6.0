@@ -270,7 +270,7 @@
         "animation_style": "none",
         "section_margin_top": 0,
         "section_margin_bottom": 0,
-        "text_color": "#FFFFFF",
+        "text_color": "#ffffff",
         "caption_bg_color": "rgba(0,0,0,0)",
         "image_overlay_color": "#242424",
         "image_overlay_opacity": 0
@@ -451,7 +451,7 @@
         "animation_style": "none",
         "section_margin_top": 0,
         "section_margin_bottom": 0,
-        "text_color": "#FFFFFF",
+        "text_color": "#ffffff",
         "caption_bg_color": "rgba(0,0,0,0)",
         "image_overlay_color": "#242424",
         "image_overlay_opacity": 25
@@ -564,33 +564,33 @@
         "featured_collection_FdNdYM": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "subheading": "Subheading",
+            "collection": "hoodies",
+            "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#FFFFFF",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
           }
         },
         "featured_collection_ptqhnz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "training-suits",
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#FFFFFF",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
           }
         },
         "featured_collection_BYKM74": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "reversible-trench-coat",
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#FFFFFF",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#242424"
           }
         }
@@ -605,7 +605,7 @@
         "description": "",
         "buttons_style": "filled",
         "override_button_colors": false,
-        "button_background_color": "#E68819",
+        "button_background_color": "#e68819",
         "button_text_color": "#ffffff",
         "section_padding_top": 60,
         "section_padding_bottom": 60,
