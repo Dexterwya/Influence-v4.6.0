@@ -222,6 +222,27 @@
         "section-width": 120
       }
     },
+    "image_with_text_overlay_NhLkyr": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image_desktop": "shopify://shop_images/WhatsApp_Image_2025-02-05_at_13.36.25.jpg",
+        "height_desktop": "original",
+        "text_position_desktop": "center",
+        "text_alignment_desktop": "center",
+        "caption_width_desktop": 50,
+        "height_mobile": "original",
+        "text_position_mobile": "center",
+        "text_alignment_mobile": "center",
+        "section_link": "",
+        "animation_style": "none",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "text_color": "#FFFFFF",
+        "caption_bg_color": "rgba(0,0,0,0)",
+        "image_overlay_color": "#242424",
+        "image_overlay_opacity": 0
+      }
+    },
     "featured_collection_gwPTkd": {
       "type": "featured-collection",
       "settings": {
@@ -522,6 +543,7 @@
     "slideshow_cEhdkA",
     "rich_text_zFcjmg",
     "collection_tabs_iVeVJq",
+    "image_with_text_overlay_NhLkyr",
     "featured_collection_gwPTkd",
     "60bed486-1e6a-4ebc-b20e-c27d4ac0cff5",
     "shop_the_look_Lwt8Py",
