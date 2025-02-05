@@ -73,24 +73,29 @@
             "button_text_color": "#ffffff"
           }
         },
-        "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
-          "type": "product-description",
-          "settings": {
-            "collapsible_tab": true,
-            "icon": "none",
-            "heading": "Details",
-            "open_close_icon": "caret",
-            "open_by_default": false,
-            "margin_bottom": 0
-          }
+        "estimated_delivery_date_plus_delivery_coder_theme_Uafbdc": {
+          "type": "shopify://apps/estimated-delivery-date-plus/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
+          "settings": {}
         },
         "411694d8-2573-4bcd-9a7c-5c2c0ce56834": {
           "type": "collapsible-tab",
           "settings": {
             "icon": "none",
-            "heading": "SIZE GUIDE",
-            "open_close_icon": "caret",
-            "text": "<p>Share some information about your product</p>",
+            "heading": "SHIPPING",
+            "open_close_icon": "plus_minus",
+            "text": "<p>We offer <strong>free shipping</strong> across the UAE and Lebanon, with an estimated delivery time of <strong>2-3 weeks</strong>.</p>",
+            "page": "",
+            "open_by_default": false,
+            "margin_bottom": 30
+          }
+        },
+        "collapsible_tab_3Br8LK": {
+          "type": "collapsible-tab",
+          "settings": {
+            "icon": "none",
+            "heading": "RETURNS & EXCHANGES",
+            "open_close_icon": "plus_minus",
+            "text": "<p>\t•\tIf your item arrives <strong>damaged</strong>, you are eligible for a <strong>free return</strong>. However, we thoroughly inspect all items before shipping to ensure quality.</p><p>\t•\tIf the size is <strong>too big or too small</strong>, you may exchange it for a different size.</p><p>For any inquiries, feel free to contact our support team.</p>",
             "page": "",
             "open_by_default": false,
             "margin_bottom": 30
@@ -118,8 +123,9 @@
         "quantity",
         "2f3ddc8d-6514-403d-a884-88c9a0294300",
         "buy_buttons",
-        "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
+        "estimated_delivery_date_plus_delivery_coder_theme_Uafbdc",
         "411694d8-2573-4bcd-9a7c-5c2c0ce56834",
+        "collapsible_tab_3Br8LK",
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf"
       ],
       "settings": {
