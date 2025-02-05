@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "product-form": {
@@ -22,10 +31,12 @@
         "options": {
           "type": "options",
           "settings": {
+            "variant_style": "dropdowns",
             "hide_out_of_stock_variants": false,
-            "variant_style": "swatches",
             "thumbnail_changes_variant": false,
+            "size_guide_label": "Size guide",
             "size_guide_page": "",
+            "size_option_name": "Size",
             "margin_bottom": 30
           }
         },
@@ -47,6 +58,7 @@
             "in-stock-message": "Ready to ship",
             "low-stock-message": "Selling fast",
             "out-of-stock-message": "Back in soon",
+            "preorder-message": "Preorder today",
             "margin_bottom": 30
           }
         },
@@ -55,13 +67,10 @@
           "settings": {
             "show_smart_checkout": true,
             "enable_gift_card_recipient_form": true,
-            "margin_bottom": 30
-          }
-        },
-        "4cdafc95-abb6-4dfd-a0c0-be9328a82e25": {
-          "type": "local_pickup",
-          "settings": {
-            "margin_bottom": 30
+            "margin_bottom": 30,
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#ffffff"
           }
         },
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
@@ -71,6 +80,7 @@
             "icon": "none",
             "heading": "Details",
             "open_close_icon": "caret",
+            "open_by_default": false,
             "margin_bottom": 0
           }
         },
@@ -80,7 +90,7 @@
             "icon": "none",
             "heading": "SIZE GUIDE",
             "open_close_icon": "caret",
-            "text": "<p>Share some information about your product<\/p>",
+            "text": "<p>Share some information about your product</p>",
             "page": "",
             "open_by_default": false,
             "margin_bottom": 30
@@ -94,6 +104,7 @@
             "cross_sell_product_2": "",
             "cross_sell_product_3": "",
             "collapsible_tab": false,
+            "open_by_default": false,
             "icon": "none",
             "open_close_icon": "plus_minus",
             "margin_bottom": 30
@@ -113,7 +124,6 @@
         "quantity",
         "2f3ddc8d-6514-403d-a884-88c9a0294300",
         "buy_buttons",
-        "4cdafc95-abb6-4dfd-a0c0-be9328a82e25",
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
         "411694d8-2573-4bcd-9a7c-5c2c0ce56834",
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf",
@@ -121,11 +131,15 @@
       ],
       "settings": {
         "enable_sticky": true,
+        "media_position": "left",
         "image_size": "large",
         "image_shape": "original",
         "image-display": "grid",
         "thumbnail_position": "left",
+        "image_display_mobile": "slider",
+        "enable_autoplay": false,
         "enable_video_loop": true,
+        "show_video_controls": false,
         "app_margin_bottom": 20
       }
     },
@@ -133,9 +147,12 @@
       "type": "template--product--description",
       "disabled": true,
       "settings": {
-        "enable_readmore": false,
+        "open_close_icon": "plus_minus",
+        "section_width": "content",
         "section_padding_top": 60,
-        "section_padding_bottom": 60
+        "section_padding_bottom": 60,
+        "colors": "white",
+        "enable_readmore": false
       }
     },
     "57589acb-75e0-47a8-a7d1-bec2aa2aee94": {
@@ -145,28 +162,36 @@
           "type": "tab_content",
           "settings": {
             "question": "ABOUT",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
           }
         },
         "template--17221699272918__57589acb-75e0-47a8-a7d1-bec2aa2aee94-tab_content-2": {
           "type": "tab_content",
           "settings": {
             "question": "OUR PROMISE",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
           }
         },
         "template--17221699272918__57589acb-75e0-47a8-a7d1-bec2aa2aee94-tab_content-3": {
           "type": "tab_content",
           "settings": {
             "question": "SHIPPING",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
           }
         },
         "223ce4cc-7afb-4882-b908-50baf8627706": {
           "type": "tab_content",
           "settings": {
             "question": "CONTACT US",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Here you can place an explanation or answer to the question.</p>",
+            "page": "",
+            "open_by_default": false
           }
         }
       },
@@ -191,7 +216,7 @@
         "template--17221699272918__3ef6ce92-15a1-46ca-8a1a-37e9959cc16b-text-1": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>Show off incredible feedback from your customers<\/p>",
+            "testimonial_text": "<p>Show off incredible feedback from your customers</p>",
             "customer_name": "JOHN SMITH",
             "link": "",
             "stars": 5
@@ -213,6 +238,8 @@
     "9523db09-76be-4481-86d2-849b2d1e3fe5": {
       "type": "video-hero",
       "settings": {
+        "url": "",
+        "video_alt_text": "",
         "title": "",
         "subheading": "",
         "textAlignment": "center",
@@ -221,10 +248,15 @@
         "subheading--text-size": 24,
         "link": "",
         "button_label": "",
+        "buttons_style": "filled",
+        "override_button_colors": false,
+        "button-background": "#E68819",
+        "button-text": "#ffffff",
         "section_margin_top": 0,
         "section_margin_bottom": 0,
         "desktopHeight": "450",
-        "mobileHeight": "350"
+        "mobileHeight": "350",
+        "textColor": "#FFFFFF"
       }
     },
     "8047f55a-1d2e-46e4-9ce3-54d4437e7614": {
@@ -235,10 +267,16 @@
           "settings": {
             "heading": "",
             "heading_size": 30,
-            "button_label": "",
             "url": "",
+            "button_label": "",
+            "buttons_style": "filled",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_color": "#FFFFFF",
             "desktop_position": "md-min-align-top md-min-justify-left",
-            "mobile_position": "md-max-align-top md-max-justify-left"
+            "mobile_position": "md-max-align-top md-max-justify-left",
+            "text_color": "#FFFFFF",
+            "overlay_color": "rgba(0,0,0,0)"
           }
         },
         "a73a80cc-3e23-46cd-ac03-01e690a74728": {
@@ -248,9 +286,15 @@
             "heading_size": 48,
             "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
             "text_alignment": "left",
-            "button_label": "",
             "url": "",
-            "desktop_position": "md-min-align-center md-min-justify-left"
+            "button_label": "",
+            "buttons_style": "filled",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_color": "#FFFFFF",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#969696",
+            "text_color": "#FFFFFF"
           }
         }
       },
@@ -287,7 +331,7 @@
         "template--17221699272918__f58abb2f-3388-4462-8c41-88433bfdfce0-text_static-1": {
           "type": "text_static",
           "settings": {
-            "text_static": "<p>Share your<\/p>",
+            "text_static": "<p>Share your</p>",
             "max_width_desktop": 100,
             "max_width_mobile": 75,
             "text_color": "rgba(0,0,0,0)"
@@ -326,20 +370,30 @@
           "type": "image",
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         },
         "template--17221699272918__850c703e-fe1a-4321-a699-3896d77849b3-image-2": {
           "type": "image",
           "settings": {
             "link": "",
-            "title": "",
             "subheading": "",
+            "title": "",
             "overlay-btn-text": "",
-            "show-gradient-overlay": false
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424",
+            "override_button_colors": false,
+            "button_background_color": "#E68819",
+            "button_text_color": "#FFFFFF"
           }
         }
       },
@@ -350,7 +404,9 @@
       "settings": {
         "title": "",
         "description": "",
+        "grid_image_size": "natural",
         "content-position": "hide",
+        "buttons_style": "filled",
         "section_padding_top": 0,
         "section_padding_bottom": 30,
         "section-width": "full",
@@ -367,9 +423,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         },
         "3ce28d5b-f08e-4404-b78c-e944b6ae2988": {
@@ -377,9 +433,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         },
         "d9180fe0-8bd6-4d40-9600-620d9cdc68fc": {
@@ -387,9 +443,9 @@
           "settings": {
             "grid_image_size": "natural",
             "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
-            "button_text": "",
-            "button_link": ""
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_link": "",
+            "button_text": ""
           }
         }
       },
@@ -401,9 +457,17 @@
       "settings": {
         "title": "",
         "description": "",
+        "buttons_style": "underlined",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "maximum_width": 500,
         "columns_per_row": 3,
         "text_alignment": "center",
         "vertical_alignment": "top",
+        "text_alignment_mobile": "center",
+        "hover_navigation_desktop": "left-and-right",
+        "section_width": "full",
         "section_padding_top": 0,
         "section_padding_bottom": 30,
         "colors": "white"
