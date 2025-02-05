@@ -377,11 +377,43 @@
             "button_text": "View All",
             "button_link": "shopify://collections/turf-boots"
           }
+        },
+        "collection_dFNYx9": {
+          "type": "collection",
+          "settings": {
+            "title": "Retro jerseys",
+            "collection": "retro-jerseys",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/turf-boots"
+          }
+        },
+        "collection_yagcfD": {
+          "type": "collection",
+          "settings": {
+            "title": "National Jerseys",
+            "collection": "national-team-jerseys",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/turf-boots"
+          }
         }
       },
       "block_order": [
         "collection_w9yFwP",
-        "collection_38xVCU"
+        "collection_38xVCU",
+        "collection_dFNYx9",
+        "collection_yagcfD"
       ],
       "settings": {
         "tabs_color": "#7e7e7e",
