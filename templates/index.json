@@ -147,21 +147,6 @@
             "button_link": "shopify://collections/cleats-boots"
           }
         },
-        "collection_jRmtrM": {
-          "type": "collection",
-          "settings": {
-            "title": "Futsal Boots",
-            "collection": "futsal-boots",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "square",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/all"
-          }
-        },
         "collection_Td4p6N": {
           "type": "collection",
           "settings": {
@@ -176,12 +161,27 @@
             "button_text": "View All",
             "button_link": "shopify://collections/turf-boots"
           }
+        },
+        "collection_jRmtrM": {
+          "type": "collection",
+          "settings": {
+            "title": "Futsal Boots",
+            "collection": "futsal-boots",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/all"
+          }
         }
       },
       "block_order": [
         "collection_R3tNrr",
-        "collection_jRmtrM",
-        "collection_Td4p6N"
+        "collection_Td4p6N",
+        "collection_jRmtrM"
       ],
       "settings": {
         "tabs_color": "#7e7e7e",
