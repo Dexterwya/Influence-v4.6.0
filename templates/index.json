@@ -189,7 +189,7 @@
             "product_image_orientation": "square",
             "button_mt": 48,
             "button_text": "View All",
-            "button_link": "shopify://collections/all"
+            "button_link": "shopify://collections/kids-collection"
           }
         }
       },
