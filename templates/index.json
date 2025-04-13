@@ -182,13 +182,13 @@
           "settings": {
             "title": "Kid's Collection",
             "collection": "kids-collection",
-            "product_limit": 6,
+            "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
+            "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
-            "button_text": "Shop Now",
+            "button_text": "View All",
             "button_link": "shopify://collections/all"
           }
         }
