@@ -606,6 +606,41 @@
         "section-width": 120
       }
     },
+    "collection_list_NJ4nAV": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_K9y4TU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-kits",
+            "subheading": "",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#FFFFFF",
+            "overlay_color": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_K9y4TU"
+      ],
+      "name": "t:sections.collection--collection-list.presets.name",
+      "settings": {
+        "title": "Kids Kits",
+        "description": "",
+        "buttons_style": "filled",
+        "override_button_colors": false,
+        "button_background_color": "#E68819",
+        "button_text_color": "#ffffff",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "items-per-row": 3,
+        "remove-spacing": false,
+        "section-width": "full",
+        "content-position": "overlay",
+        "colors": "light"
+      }
+    },
     "collection_list_jayLaJ": {
       "type": "collection-list",
       "blocks": {
@@ -773,6 +808,7 @@
     "image_with_text_overlay_dtiGyi",
     "rich_text_6rdzwK",
     "collection_tabs_RKBa8m",
+    "collection_list_NJ4nAV",
     "collection_list_jayLaJ",
     "shop_the_look_Lwt8Py",
     "accordion_B6LmjL"
