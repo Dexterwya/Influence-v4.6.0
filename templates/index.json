@@ -367,7 +367,7 @@
         "collection_w9yFwP": {
           "type": "collection",
           "settings": {
-            "title": "Special edition jerseys",
+            "title": "New Releases",
             "collection": "special-edition-jerseys",
             "product_limit": 8,
             "product_row_count": 4,
@@ -379,25 +379,10 @@
             "button_link": "shopify://collections/special-edition-jerseys"
           }
         },
-        "collection_38xVCU": {
-          "type": "collection",
-          "settings": {
-            "title": "Modern jerseys",
-            "collection": "modern-vintage-jerseys",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "square",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/modern-vintage-jerseys"
-          }
-        },
         "collection_dFNYx9": {
           "type": "collection",
           "settings": {
-            "title": "Retro jerseys",
+            "title": "Vintage Jerseys",
             "collection": "retro-jerseys",
             "product_limit": 8,
             "product_row_count": 4,
@@ -409,27 +394,26 @@
             "button_link": "shopify://collections/retro-jerseys"
           }
         },
-        "collection_yagcfD": {
+        "collection_XtbnqY": {
           "type": "collection",
           "settings": {
-            "title": "National Jerseys",
-            "collection": "national-team-jerseys",
+            "title": "Kids Kits",
+            "collection": "kids-kits",
             "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
             "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/national-team-jerseys"
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all"
           }
         }
       },
       "block_order": [
         "collection_w9yFwP",
-        "collection_38xVCU",
         "collection_dFNYx9",
-        "collection_yagcfD"
+        "collection_XtbnqY"
       ],
       "settings": {
         "tabs_color": "#7e7e7e",
@@ -606,41 +590,6 @@
         "section-width": 120
       }
     },
-    "collection_list_NJ4nAV": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_K9y4TU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kids-kits",
-            "subheading": "",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#FFFFFF",
-            "overlay_color": "#242424"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_K9y4TU"
-      ],
-      "name": "t:sections.collection--collection-list.presets.name",
-      "settings": {
-        "title": "Kids Kits",
-        "description": "",
-        "buttons_style": "filled",
-        "override_button_colors": false,
-        "button_background_color": "#E68819",
-        "button_text_color": "#ffffff",
-        "section_padding_top": 60,
-        "section_padding_bottom": 60,
-        "items-per-row": 3,
-        "remove-spacing": false,
-        "section-width": "full",
-        "content-position": "overlay",
-        "colors": "light"
-      }
-    },
     "collection_list_jayLaJ": {
       "type": "collection-list",
       "blocks": {
@@ -808,7 +757,6 @@
     "image_with_text_overlay_dtiGyi",
     "rich_text_6rdzwK",
     "collection_tabs_RKBa8m",
-    "collection_list_NJ4nAV",
     "collection_list_jayLaJ",
     "shop_the_look_Lwt8Py",
     "accordion_B6LmjL"
