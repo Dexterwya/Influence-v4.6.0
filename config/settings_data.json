@@ -109,6 +109,11 @@
         "type": "shopify://apps/pushdaddy-whatsapp-live-chat/blocks/app-embed/e3f2054d-bf7b-4e63-8db3-00712592382c",
         "disabled": false,
         "settings": {}
+      },
+      "5550728556201851227": {
+        "type": "shopify://apps/glc-geolocation/blocks/selector/e347b539-0714-46e4-9e69-23a73992ae3a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
