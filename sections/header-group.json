@@ -44,7 +44,7 @@
       "settings": {
         "sticky_header": true,
         "enable_search": true,
-        "logo-placement": "center",
+        "logo-placement": "left",
         "logo_max_width": 125,
         "logo_max_width_mobile": 100,
         "logo_padding": 20,
