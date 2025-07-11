@@ -47,7 +47,7 @@
         "logo-placement": "left",
         "logo_max_width": 125,
         "logo_max_width_mobile": 100,
-        "logo_padding": 20,
+        "logo_padding": 35,
         "mobile_social_icons": false,
         "show_icons": true,
         "cart-style": "shopping-bag",
